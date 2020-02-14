@@ -1,3 +1,8 @@
+a {
+    color:white;
+    text-align: center;
+}
+
 .navbar-navbar-expand-lg navbar-light bg-light {
     float: right;
 
@@ -20,16 +25,15 @@ body {
     display: block;
     padding-top: 20px;
     margin: auto;
-    background: url(../images/papyrus.jpg);
+    background: url(../images/webb.png);
     background-position:-25px 100% ;
 }
 
 .box1 {
     display: block;
     margin: auto;
-    background: url(../images/papyrus.jpg);
-    background-position: 100% 100%;
     background: white;
+    background-position: 100% 100%;
     width: 60%;
     border: 1px rgb(102, 99, 99);
     padding-top: 15px;
